@@ -1,4 +1,4 @@
-# EXP 3 : INSTALL AUTOPSY AND ANALYSIS THE DISK, FILE AND FOLDER CONFIGURATION
+# EXP 4: Using-the-Autopsy-retrieve-the-deleted-files
 
 ## AIM:
 To install Autopsy software on windows operating system and analyse the file and folder configuration.
